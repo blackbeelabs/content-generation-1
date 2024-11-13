@@ -1,0 +1,184 @@
+{
+    "foods": [
+        {
+            "name": "Big Mac",
+            "short_description": "Iconic double-decker burger with special sauce, lettuce, cheese, pickles, and onions on a sesame seed bun.",
+            "estimated_price": 89850,
+            "category": "fast_foods"
+        },
+        {
+            "name": "Spicy Chicken Sandwich",
+            "short_description": "Crispy breaded chicken breast filet with spicy seasoning, mayo, and pickles on a toasted bun.",
+            "estimated_price": 74850,
+            "category": "fast_foods"
+        },
+        {
+            "name": "Fish Tacos",
+            "short_description": "Battered fish strips with cabbage slaw, lime crema, and pico de gallo in soft corn tortillas.",
+            "estimated_price": 119850,
+            "category": "fast_foods"
+        },
+        {
+            "name": "Double Cheeseburger",
+            "short_description": "Two beef patties with melted American cheese, pickles, onions, and condiments on a plain bun.",
+            "estimated_price": 59850,
+            "category": "fast_foods"
+        },
+        {
+            "name": "Chicken Nuggets (10pc)",
+            "short_description": "Bite-sized pieces of breaded chicken breast served with choice of dipping sauce.",
+            "estimated_price": 97350,
+            "category": "fast_foods"
+        },
+        {
+            "name": "Supreme Pizza Slice",
+            "short_description": "Large slice topped with pepperoni, sausage, bell peppers, onions, and mushrooms.",
+            "estimated_price": 52500,
+            "category": "fast_foods"
+        },
+        {
+            "name": "Burrito Bowl",
+            "short_description": "Rice, beans, choice of meat, lettuce, cheese, and fresh salsa in a convenient bowl.",
+            "estimated_price": 134850,
+            "category": "fast_foods"
+        },
+        {
+            "name": "Classic Hot Dog",
+            "short_description": "All-beef hot dog topped with mustard, ketchup, onions, and relish in a soft bun.",
+            "estimated_price": 44850,
+            "category": "fast_foods"
+        },
+        {
+            "name": "Chicken Wings (8pc)",
+            "short_description": "Crispy wings tossed in buffalo sauce, served with celery and ranch dressing.",
+            "estimated_price": 149850,
+            "category": "fast_foods"
+        },
+        {
+            "name": "French Fries",
+            "short_description": "Golden-brown potato fries, perfectly seasoned with salt and served hot and crispy.",
+            "estimated_price": 37350,
+            "category": "fast_foods"
+        },
+        {
+            "name": "Veggie Wrap",
+            "short_description": "Fresh vegetables, hummus, and feta cheese wrapped in a spinach tortilla.",
+            "estimated_price": 104850,
+            "category": "fast_foods"
+        },
+        {
+            "name": "Chicken Caesar Salad",
+            "short_description": "Grilled chicken breast over romaine lettuce with parmesan, croutons, and Caesar dressing.",
+            "estimated_price": 119850,
+            "category": "fast_foods"
+        },
+        {
+            "name": "Philly Cheesesteak",
+            "short_description": "Thinly sliced beef with melted cheese, grilled onions, and peppers on a hoagie roll.",
+            "estimated_price": 127350,
+            "category": "fast_foods"
+        },
+        {
+            "name": "Onion Rings",
+            "short_description": "Thick-cut onions battered and fried until golden, served with dipping sauce.",
+            "estimated_price": 59850,
+            "category": "fast_foods"
+        },
+        {
+            "name": "Ice Cream Sundae",
+            "short_description": "Vanilla soft-serve topped with hot fudge, whipped cream, nuts, and a cherry.",
+            "estimated_price": 67350,
+            "category": "fast_foods"
+        },
+        {
+            "name": "Nasi Goreng",
+            "short_description": "Iconic Indonesian fried rice with sweet soy sauce, served with fried egg, chicken, and prawn crackers.",
+            "estimated_price": 25000,
+            "category": "indonesian_foods"
+        },
+        {
+            "name": "Rendang",
+            "short_description": "Slow-cooked caramelized beef in coconut milk and spices, voted world's most delicious food.",
+            "estimated_price": 45000,
+            "category": "indonesian_foods"
+        },
+        {
+            "name": "Sate Ayam",
+            "short_description": "Grilled chicken skewers served with rich peanut sauce, rice cake, and sweet soy sauce.",
+            "estimated_price": 30000,
+            "category": "indonesian_foods"
+        },
+        {
+            "name": "Gado-gado",
+            "short_description": "Mixed vegetables with tofu, tempeh, and egg, dressed in peanut sauce dressing.",
+            "estimated_price": 20000,
+            "category": "indonesian_foods"
+        },
+        {
+            "name": "Soto Ayam",
+            "short_description": "Traditional chicken soup with turmeric broth, vermicelli, eggs, and aromatic herbs.",
+            "estimated_price": 25000,
+            "category": "indonesian_foods"
+        },
+        {
+            "name": "Beef Bakso",
+            "short_description": "Indonesian meatballs in clear soup with noodles, bok choy, and crispy fried shallots.",
+            "estimated_price": 20000,
+            "category": "indonesian_foods"
+        },
+        {
+            "name": "Nasi Uduk",
+            "short_description": "Fragrant coconut rice served with various side dishes like chicken, tempeh, and sambal.",
+            "estimated_price": 25000,
+            "category": "indonesian_foods"
+        },
+        {
+            "name": "Mie Goreng",
+            "short_description": "Stir-fried noodles with chicken, vegetables, and sweet soy sauce, topped with fried shallots.",
+            "estimated_price": 22000,
+            "category": "indonesian_foods"
+        },
+        {
+            "name": "Sambal Udang",
+            "short_description": "Spicy stir-fried shrimp in chili sauce with petai beans and lime leaves.",
+            "estimated_price": 50000,
+            "category": "indonesian_foods"
+        },
+        {
+            "name": "Sop Buntut",
+            "short_description": "Rich oxtail soup with carrots, potatoes, and celery in clear aromatic broth.",
+            "estimated_price": 55000,
+            "category": "indonesian_foods"
+        },
+        {
+            "name": "Martabak Telur",
+            "short_description": "Stuffed savory pancake with minced meat, eggs, and green onions, served with curry sauce.",
+            "estimated_price": 30000,
+            "category": "indonesian_foods"
+        },
+        {
+            "name": "Nasi Campur",
+            "short_description": "Mixed rice plate with various sides like rendang, egg, vegetables, and sambal.",
+            "estimated_price": 35000,
+            "category": "indonesian_foods"
+        },
+        {
+            "name": "Sate Lilit",
+            "short_description": "Balinese minced fish satay wrapped around lemongrass stalks, grilled to perfection.",
+            "estimated_price": 35000,
+            "category": "indonesian_foods"
+        },
+        {
+            "name": "Bebek Goreng",
+            "short_description": "Crispy fried duck served with steamed rice, vegetables, and spicy sambal.",
+            "estimated_price": 45000,
+            "category": "indonesian_foods"
+        },
+        {
+            "name": "Pisang Goreng",
+            "short_description": "Deep-fried battered banana fritters, popular street food snack served with palm sugar.",
+            "estimated_price": 15000,
+            "category": "indonesian_foods"
+        }
+    ]
+}
